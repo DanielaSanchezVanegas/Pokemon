@@ -1,0 +1,76 @@
+{
+  "Id":1,
+  "Nombre": "Bulbasaur",
+  "Tipo": "Planta",
+  "Habilidades": [1, 3, 5, 6],      
+  "Defensa": 30
+}
+
+
+[{
+  "Id":2,
+  "Nombre": "Ivysaur",
+  "Tipo": "Planta",
+  "Habilidades": [10, 13, 15, 16],      
+  "Defensa": 30
+},
+ {
+  "Id":3,
+  "Nombre": "Venusaur",
+  "Tipo": "Planta",
+  "Habilidades": [30, 27, 35, 26],      
+  "Defensa": 30
+},
+ {
+  "Id":4,
+  "Nombre": "Charmander",
+  "Tipo": "Fuego",
+  "Habilidades": [5, 6, 9, 7],      
+  "Defensa": 20
+},
+ {
+  "Id":5,
+  "Nombre": "Charmeleon",
+  "Tipo": "Fuego",
+  "Habilidades": [10, 16, 19, 17],      
+  "Defensa": 25
+},
+ {
+  "Id":7,
+  "Nombre": "Squirtle",
+  "Tipo": "Agua",
+  "Habilidades": [7, 4, 8, 3],      
+  "Defensa": 11
+},
+ {
+  "Id":16,
+  "Nombre": "Pidgey",
+  "Tipo": "Volador",
+  "Habilidades": [5, 7, 3, 8],      
+  "Defensa": 8
+},
+ {
+  "Id":23,
+  "Nombre": "Ekans",
+  "Tipo": "Veneno",
+  "Habilidades": [13, 17, 11, 18],      
+  "Defensa": 17
+},
+ {
+  "Id":25,
+  "Nombre": "Pikachu",
+  "Tipo": "Electrico",
+  "Habilidades": [15, 14, 17, 13],      
+  "Defensa": 16
+},
+ {
+  "Id":25,
+  "Nombre": "",
+  "Tipo": "",
+  "Habilidades": [10, 16, 19, 17],      
+  "Defensa": 25
+}
+]
+
+
+
